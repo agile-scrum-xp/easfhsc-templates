@@ -1,0 +1,1 @@
+# easfhsc-templates
